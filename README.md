@@ -6,7 +6,7 @@ I'm a motivated Cybersecurity Analyst with a solid foundation from the Google Cy
 
 ## Objective
 
-My journey in information systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or as a cybersecurity analyst.
+With a background in Information Systems and hands-on experience in IT infrastructure and systems administration, I’ve developed a strong passion for cybersecurity and protecting critical systems. I’m looking to build on my technical experience and connect with professionals and organizations in the cybersecurity industry, particularly in Security Operations (SOC), Cybersecurity Analysis, and Governance, Risk, and Compliance (GRC). I’m excited to explore new opportunities, exchange ideas, and connect with people who are shaping the future of technology and cybersecurity.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
