@@ -1,8 +1,7 @@
 # WILLIAM A. DEAN
 
 Justin, Texas 76247  
-214-729-6956 | William.Dean92@yahoo.com  
-[LinkedIn Profile](https://www.linkedin.com/in/william-a-dean/)
+214-729-6956 | William.Dean92@yahoo.com | [LinkedIn Profile](https://www.linkedin.com/in/william-a-dean/)
 
 ## OBJECTIVE
 
