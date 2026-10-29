@@ -82,12 +82,3 @@ Relevant Coursework: SQL, Java, Python, Cybersecurity, and Web Development
 
 ### Active Directory Security Lab
 - Built a virtual Windows Server Active Directory environment for user management and security testing.
-
-### A few recommendations before using it
-
-1. **Verify your certification dates.** I used the 2026 dates you supplied for CompTIA A+, CySA+, and ISC2 CC. Make sure these reflect your actual certification records.
-2. **Verify your achievement metrics.** Keep the percentages under Earthbound Trading only if you can explain and substantiate them.
-3. **Keep the SIEM project accurate.** If you have not yet completed the Microsoft Sentinel and Splunk implementation, describe it as an in-progress lab rather than a completed deployment.
-4. **Consider using “Professional Summary” instead of “Objective.”** For experienced IT professionals transitioning into cybersecurity, a summary typically communicates your existing qualifications more effectively.
-
-You can copy this Markdown into a `.md` file, a GitHub portfolio, or a Markdown-compatible editor.
