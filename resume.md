@@ -1,3 +1,5 @@
+ [Click here to download Resume](https://github.com/WillD92/WillD92/blob/65419935dcd7171b9d9d80124dcf5c4e72e739c7/Resume%20Cybersecurity.docx)
+
 # WILLIAM A. DEAN
 
 Justin, Texas 76247  
