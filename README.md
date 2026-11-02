@@ -1,6 +1,7 @@
 
 # Hello, I'm William Dean
 <a href="https://linkedin.com/in/william-a-dean"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/WillD92/WillD92/blob/main/resume.md"><img src="https://img.shields.io/badge/Resume-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a motivated Cybersecurity Analyst with a solid foundation from the Google Cybersecurity Certificate and CompTIA CySA+, combined with hands-on experience in threat analysis, incident response, and system hardening. I’m passionate about uncovering how small vulnerabilities can lead to major security breaches—and implementing proactive solutions to stop them.
 
