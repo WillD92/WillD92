@@ -10,7 +10,6 @@ I'm a motivated Cybersecurity Analyst with a solid foundation from the Google Cy
 With a background in Information Systems and hands-on experience in IT infrastructure and systems administration, I’ve developed a strong passion for cybersecurity and protecting critical systems. I’m looking to build on my technical experience and connect with professionals and organizations in the cybersecurity industry, particularly in Security Operations (SOC), Cybersecurity Analysis, and Governance, Risk, and Compliance (GRC). I’m excited to explore new opportunities, exchange ideas, and connect with people who are shaping the future of technology and cybersecurity.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -22,7 +21,6 @@ With a background in Information Systems and hands-on experience in IT infrastru
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -45,7 +43,6 @@ With a background in Information Systems and hands-on experience in IT infrastru
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
     <a href=https://www.credly.com/badges/24ecb85e-83df-41fc-bea4-4f3fe96751b8/public_url><img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /><a/>
     <a href=https://www.credly.com/badges/ddde6484-334b-4fa4-8ab2-6bdadba81e1f/public_url><img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /><a/>
