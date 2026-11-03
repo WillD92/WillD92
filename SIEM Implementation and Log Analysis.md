@@ -1,7 +1,7 @@
 # SIEM Implementation and Log Analysis
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-william--a--dean-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/william-a-dean)
-[![Resume](https://img.shields.io/badge/Resume-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/william-a-dean)
+<a href="https://linkedin.com/in/william-a-dean"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/WillD92/WillD92/blob/main/resume.md"><img src="https://img.shields.io/badge/Resume-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
 
